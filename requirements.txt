@@ -1,0 +1,11 @@
+pandas
+beautifulsoup4
+selenium
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+joblib
+streamlit
+logging
