@@ -11,7 +11,7 @@ This project demonstrates an end-to-end machine learning pipeline: from collecti
 * **Model Evaluation:** Provides insights into model performance.
 * **Interactive UI:** Predict car prices easily through a web interface.
 
-# Key Technologies Used
+## Key Technologies Used
 * **Python:** The core language powering the entire project.
 * **pandas & numpy:** For efficient data cleaning, manipulation, and numerical operations on the car data.
 * **BeautifulSoup4 & selenium:** Utilized for robust web scraping of car data from online sources.
@@ -20,7 +20,7 @@ This project demonstrates an end-to-end machine learning pipeline: from collecti
 * **streamlit:** The framework chosen to create the interactive web user interface for price prediction.
 * **logging:** Integrated for effective application monitoring and debugging.
 
-# Setup and Run Instructions
+## Setup and Run Instructions
 Follow these simple steps to get the project running on your local machine:
 
 **1. Clone the Repository:**
@@ -80,6 +80,6 @@ streamlit run streamlit.py
 ```
 Once the command runs, your default web browser will open, showing the "Car Price Predictor" application.
 
-# Example
+## Example
 ![Streamlit UI Input Fields and Result](images/streamlit_ui_input_and_output.png)
 Here you can see an example with filled data and predicted price.
